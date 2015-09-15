@@ -12,11 +12,11 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
+| _sport_  |  :basketball: etc |
 | _team_   | --- |
 | _drink_  | Milk |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | Shawshank Redemption |
 | _book_  | :books: |
 | _travel_ | :earth_americas: |
 | _craft_  | :art: |
