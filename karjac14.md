@@ -15,7 +15,7 @@
 | _sport_  |  :basketball: etc |
 | _team_   | --- |
 | _drink_  | Milk |
-| _food_   | --- |
+| _food_   | Burger |
 | _movie_  | Shawshank Redemption |
 | _book_  | :books: |
 | _travel_ | :earth_americas: |
