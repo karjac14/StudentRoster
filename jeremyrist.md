@@ -17,7 +17,7 @@
 | _team_   | Carolina Panthers |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | Pho |
-| _movie_  | Forrest Gump |
+| _movie_  | Green Mile |
 | _book_  | The Image |
 | _travel_ | :earth_americas: |
 | _craft_  | :art: |
