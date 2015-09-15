@@ -13,11 +13,11 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _sport_  | :football: etc |
+| _team_   | Warriors  |
 | _drink_  | :beer: :wine_glass: |
 | _food_   | --- |
-| _movie_  | --- |
+| _movie_  | Green Mile |
 | _book_  | :books: |
 | _travel_ | :earth_americas: |
 | _craft_  | :art: |
