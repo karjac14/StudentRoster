@@ -13,12 +13,12 @@
 
 | category | value |
 |----------|--------|
-| _sport_  | :football: :basketball: etc |
-| _team_   | --- |
+| _sport_  | :football: |
+| _team_   | Carolina Panthers |
 | _drink_  | :beer: :wine_glass: |
-| _food_   | --- |
-| _movie_  | --- |
-| _book_  | :books: |
+| _food_   | Pho |
+| _movie_  | Forrest Gump |
+| _book_  | The Image |
 | _travel_ | :earth_americas: |
 | _craft_  | :art: |
 
