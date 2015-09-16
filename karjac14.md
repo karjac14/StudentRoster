@@ -12,11 +12,16 @@
 
 | category | value |
 |----------|--------|
-| _sport_  |  :basketball: etc |
+| _sport_  | :football: :basketball: etc |
 | _team_   | --- |
 | _drink_  | Milk |
+<<<<<<< HEAD
 | _food_   | Burger |
 | _movie_  | Shawshank Redemption |
+=======
+| _food_   | --- |
+| _movie_  | Forrest Gump |
+>>>>>>> 22f853e807070e11a3224eb7b6a6a45c1db71e85
 | _book_  | :books: |
 | _travel_ | :earth_americas: |
 | _craft_  | :art: |
