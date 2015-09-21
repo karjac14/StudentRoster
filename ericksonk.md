@@ -1,10 +1,10 @@
-# [Full Name](https://github.com/USERNAME)
+# [Kristine Erickson](https://github.com/ericksonk)
 
-![Full Name](URL-to-IMAGE)
+![Kristine Erickson](http://i.imgur.com/gi8YYlc.jpg?1)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Baltimore, MD |
+| _:house:_ | Raleigh, NC |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
@@ -41,12 +41,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 

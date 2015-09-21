@@ -1,10 +1,12 @@
-# [Full Name](https://github.com/USERNAME)
+# [Jonathan Creasman](https://github.com/jmcreasman)
 
-![Full Name](URL-to-IMAGE)
+[jmcreasman](https://github.com/jmcreasman)
+
+[![Jonathan Creasman] (http://i.imgur.com/ikGn4r4.jpg)] (https://github.com/jmcreasman)
 
 | category | value |
 |-----------|-------|
-| _:house:_ | Baltimore, MD |
+| _:house:_ | Cary, NC |
 | _:dog: or :cat:_ | :bird: :snake: |
 | _:birthday:_ | _:calendar:_ |
 
@@ -41,12 +43,12 @@
 | _:mouse: or :earth_americas:_| --- |
 
 ## Fashion Style :bowtie:
-
-| category | value |
-|----------|-------|
-| _hat_ | --- |
-| _clothing_ | --- |
-| _shoes_ | --- |
++
++| category | value |
++|----------|-------|
++| _hat_ | --- |
++| _clothing_ | --- |
++| _shoes_ | --- |
 
 ## Randomness
 
